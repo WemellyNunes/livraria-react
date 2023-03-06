@@ -1,0 +1,11 @@
+.banner {
+    background-color: #6278F7;
+    background-image: url(../../../public/img/fundo.png);
+    text-align: center;
+}
+
+.banner img{
+    max-width: 100%;
+    width: 100%;
+}
+
