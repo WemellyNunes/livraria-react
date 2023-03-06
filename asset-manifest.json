@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/webII-livraria-react/static/css/main.20fc178a.css",
+    "main.js": "/webII-livraria-react/static/js/main.86ef2e8b.js",
+    "static/media/fundo.png": "/webII-livraria-react/static/media/fundo.634e6bd472eff6edd80e.png",
+    "index.html": "/webII-livraria-react/index.html",
+    "main.20fc178a.css.map": "/webII-livraria-react/static/css/main.20fc178a.css.map",
+    "main.86ef2e8b.js.map": "/webII-livraria-react/static/js/main.86ef2e8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20fc178a.css",
+    "static/js/main.86ef2e8b.js"
+  ]
+}
