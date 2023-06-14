@@ -11,7 +11,7 @@ function Rodape(){
                 <div><img src='./img/ig.png'/></div>
             </div>
             <div className='auto'>
-                <h4>Created by Diogo Alvino and Wemelly Nunes</h4>
+                <h4>Created by Wemelly Nunes</h4>
             </div>
         </footer>
 
